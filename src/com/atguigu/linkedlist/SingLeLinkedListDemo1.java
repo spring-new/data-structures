@@ -7,11 +7,12 @@ public  class SingLeLinkedListDemo1 {
         HeroNode1 heroNode3 = new HeroNode1(3, "wy", "zdx");
         HeroNode1 heroNode4 = new HeroNode1(4, "lc", "bzt");
         SingleLinkedList1 list1 = new SingleLinkedList1();
-        list1.add(heroNode1);
-        list1.add(heroNode2);
-        list1.add(heroNode3);
-        list1.add(heroNode4);
-
+        list1.addByOrder(heroNode1);
+        list1.addByOrder(heroNode3);
+        list1.addByOrder(heroNode2);
+        list1.addByOrder(heroNode3);
+        list1.addByOrder(heroNode4);
+        list1.addByOrder(heroNode1);
         list1.list();
     }
 

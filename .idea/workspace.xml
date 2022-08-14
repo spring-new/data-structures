@@ -2,75 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5934a2ff-dca9-4736-9653-51115dbd65ff" name="Default Changelist" comment="git">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/SingLeLinkedListDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/avl/AVLTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/avl/AVLTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/avl/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/binarysorttree/BinarySortTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/binarysorttree/BinarySortTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/binarysorttree/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/graph/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/hashtab/Emp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/hashtab/EmpLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/hashtab/HashTab.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/hashtab/HashTabDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/huffmancode/HuffmanCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/huffmancode/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/huffmantree/HuffmanTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/huffmantree/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/Boy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/CircleSingleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/DoubleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/DoubleLinkedListDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/HeroNode2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/Josepfu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/SingleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/SingleLinkedListDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/TestStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/queue/ArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/queue/ArrayQueueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/queue/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/queue/CircleArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/queue/CircleArrayQueueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/queue/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/recursion/MiGong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/recursion/Queue8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/recursion/RecursionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/reversepolishcal/ReversePolishMultiCalc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/search/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/search/FibonacciSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/search/InsertValueSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/search/SeqSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sort/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sort/InsertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sort/MergetSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sort/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sort/RadixSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sort/SelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sort/ShellSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sparsearray/SparseArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sparsearray/稀疏数组.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/stack/ArrayStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/stack/ArrayStack2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/stack/ArrayStackDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/stack/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/stack/Operation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/stack/PolandNotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/ArrBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/ArrBinaryTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/BinaryTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/threadedbinarytree/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/threadedbinarytree/ThreadedBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/threadedbinarytree/ThreadedBinaryTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/so.md" beforeDir="false" afterPath="$PROJECT_DIR$/so.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/linkedlist/SingLeLinkedListDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/SingLeLinkedListDemo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/atguigu/linkedlist/SingleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +41,7 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RunManager" selected="应用程序.SingLeLinkedListDemo1">
@@ -208,7 +142,7 @@
       <workItem from="1660061043318" duration="165000" />
       <workItem from="1660089165016" duration="755000" />
       <workItem from="1660482336844" duration="4749000" />
-      <workItem from="1660488260153" duration="162000" />
+      <workItem from="1660488260153" duration="2228000" />
     </task>
     <task id="LOCAL-00001" summary="https://gitee.com/spring-new/data-structures.git">
       <created>1660485647199</created>
@@ -224,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660486025915</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="git">
+      <created>1660488466330</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660488466331</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
