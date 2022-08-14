@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5934a2ff-dca9-4736-9653-51115dbd65ff" name="Default Changelist" comment="git">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/SingLeLinkedListDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/avl/AVLTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/avl/AVLTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/avl/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/binarysorttree/BinarySortTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/binarysorttree/BinarySortTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/binarysorttree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/graph/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/hashtab/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/hashtab/EmpLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/hashtab/HashTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/hashtab/HashTabDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/huffmancode/HuffmanCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/huffmancode/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/huffmantree/HuffmanTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/huffmantree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/Boy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/CircleSingleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/DoubleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/DoubleLinkedListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/HeroNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/HeroNode2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/Josepfu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/SingleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/SingleLinkedListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/linkedlist/TestStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/queue/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/queue/ArrayQueueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/queue/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/queue/CircleArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/queue/CircleArrayQueueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/queue/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/recursion/MiGong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/recursion/Queue8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/recursion/RecursionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/reversepolishcal/ReversePolishMultiCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/search/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/search/FibonacciSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/search/InsertValueSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/search/SeqSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sort/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sort/MergetSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sort/RadixSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sort/SelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sort/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sparsearray/SparseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/sparsearray/稀疏数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/stack/ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/stack/ArrayStack2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/stack/ArrayStackDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/stack/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/stack/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/stack/PolandNotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/ArrBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/ArrBinaryTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/BinaryTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/HeroNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/threadedbinarytree/HeroNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/threadedbinarytree/ThreadedBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/tree/threadedbinarytree/ThreadedBinaryTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/linkedlist/SingleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="2D1qXaetAPVB9nsK9RENq6Ajlac" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
+  </component>
+  <component name="RunManager" selected="应用程序.SingLeLinkedListDemo1">
+    <configuration name="稀疏数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.sparsearray.稀疏数组" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.sparsearray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.queue.Circle" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleArrayQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.queue.CircleArrayQueueDemo" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.queue.Queue" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingLeLinkedListDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.linkedlist.SingLeLinkedListDemo1" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.SingLeLinkedListDemo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5934a2ff-dca9-4736-9653-51115dbd65ff" name="Default Changelist" comment="" />
+      <created>1659876979848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659876979848</updated>
+      <workItem from="1659876980953" duration="5749000" />
+      <workItem from="1659960458611" duration="9870000" />
+      <workItem from="1660061043318" duration="165000" />
+      <workItem from="1660089165016" duration="755000" />
+      <workItem from="1660482336844" duration="4749000" />
+      <workItem from="1660488260153" duration="162000" />
+    </task>
+    <task id="LOCAL-00001" summary="https://gitee.com/spring-new/data-structures.git">
+      <created>1660485647199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660485647199</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git">
+      <created>1660486025915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660486025915</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="https://gitee.com/spring-new/data-structures.git" />
+    <MESSAGE value="git" />
+    <option name="LAST_COMMIT_MESSAGE" value="git" />
+  </component>
+</project>

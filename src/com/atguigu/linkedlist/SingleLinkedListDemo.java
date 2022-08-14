@@ -332,7 +332,7 @@ class HeroNode1 {
 	private int no;
 	public String name;
 	public String nicKname;
-	public String next;
+	public HeroNode1 next;
 	
 	
 	public HeroNode1(int hNO, String hName, String hNickname) {
@@ -343,5 +343,48 @@ class HeroNode1 {
 		
 	}
 	
-	
+	@Override
+	public String toString() {
+		return "HeroNode1{" +
+				"no=" + no +
+				", name='" + name + '\'' +
+				", nicKname='" + nicKname + '\'' +
+				", next='" + next + '\'' +
+				'}';
+	}
 }
+
+class SingleLinkedList1 {
+	private HeroNode1 head = new HeroNode1(0, "", "");
+	
+	public void add(HeroNode1 heroNode) {
+		
+		HeroNode1 temp = head;
+		while (true) {
+			if (temp.next == null) {
+				break;
+			}
+			
+			temp = temp.next;
+		}
+		temp.next = heroNode;
+	}
+	
+	public void list() {
+		if (head.next == null) {
+			System.out.println("Á´±íÎª¿Õ");
+			return;
+		}
+		HeroNode1 temp = head.next;
+		while (true) {
+			if (temp == null) {
+				break;
+			}
+			System.out.println(temp);
+			temp = temp.next;
+			
+		}
+	}
+}
+
+
